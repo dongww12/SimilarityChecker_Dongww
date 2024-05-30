@@ -1,0 +1,5 @@
+﻿#include <iostream>
+
+class Similarity {
+
+};
